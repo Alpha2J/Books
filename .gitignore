@@ -1,0 +1,48 @@
+书籍代码/
+掘金小册/
+NodeJS/Koa与Node.js开发实战.pdf
+前端/深入浅出Webpack.pdf
+应聘/算法 第4版-谢路云译完整版.pdf
+Java/Web/Java Web高级编程.pdf
+Java/网络/网络爬虫全解析-技术,原理与实践.pdf
+书籍代码/算法第四版/algs4-data.zip
+Java/Web/大型网站系统与JAVA中间件实践.pdf
+Java/SE/Java核心技术 卷1 基础知识 原书第10版.pdf
+数据库/MongoDB/MONGODB实战  第2版.pdf
+数据库/MySQL/MySQL运维内参：MySQL、Galera、Inception核心原理与最佳实践.pdf
+软件设计/Web安全/SQL注入攻击与防御  第2版.pdf
+软件设计/微服务/Spring微服务实战.pdf
+软件设计/Web安全/白帽子讲Web安全.pdf
+软件设计/微服务/深入理解Spring Cloud与微服务构建.pdf
+软件设计/微服务/Spring Cloud微服务实战.pdf
+软件设计/微服务/Docker/Docker技术入门与实战  第3版.pdf
+软件设计/设计思想/深入浅出面向对象分析与设计(中文版).pdf
+软件设计/网络爬虫/Python 3网络爬虫开发实战.pdf
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
